@@ -1,5 +1,4 @@
 ### Almonzer Fadl 
-- 👨🏻‍💻 **Software Engineer & a BEng (Hons) Electrical and Electronic Engineering student** 
 - 🌐 Focusing on Ai Powered Web Apps/Tools for SaaS Companies and Agencies.
 - 📚 Currently learning working on founding my own SaaS Startup.
 
