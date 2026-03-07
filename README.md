@@ -3,4 +3,4 @@
 - 📚 Currently learning working on founding my own SaaS Startup.
 
 ### 👨🏻‍💻 Techs and Tools
-[![My Skills](https://skillicons.dev/icons?i=typescript,php,swift,react,nextjs,tailwindcss,nodejs,supabase,mongodb,postgress,laravel&theme=light&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,php,swift,react,nextjs,nodejs,supabase,mongodb,postgress,laravel&theme=light&perline=10)](https://skillicons.dev)
